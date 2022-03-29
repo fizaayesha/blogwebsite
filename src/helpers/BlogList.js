@@ -18,12 +18,4 @@ export const BlogList = [
     code: "https://github.com/fizaayesha/css-effects.github.io",
     visit: "https://fizaayesha.github.io/css-effects.github.io",
   },
-  {
-    name: "Health is Wealth",
-    image: image3,
-    descrption:
-      "I created this blog website using HTML & CSS, nodejs, expressjs and mongodb. As health is most essential part in an individual's life, so in this website I have listed balanced diet food.",
-    code: "https://www.google.com/",
-    visit: "https://web.telegram.org/",
-  },
 ];
