@@ -13,6 +13,7 @@ import java from "../assets/java.jpg";
 import python from "../assets/python.jpg";
 import ieee from "../assets/ieee.jpg";
 import aet from "../assets/aet.jpg";
+import sparks from "../assets/sparks.ico";
 import "../styles/About.css";
 
 function Home() {
@@ -125,6 +126,18 @@ function Home() {
         </span>
       </ul>
       <ul>
+        <li className="card" id="pos">
+          <div className="card__main" id="one">
+            <div className="card__inner">
+              <img src={sparks} alt="ieee" />
+              <p className="card__name">
+                Web Developer and Designing Intern <span>at </span> The Sparks
+                Foundation 
+              </p>
+              <span>April-May (2 months)</span>
+            </div>
+          </div>
+        </li>
         <li className="card" id="pos">
           <div className="card__main" id="one">
             <div className="card__inner">
