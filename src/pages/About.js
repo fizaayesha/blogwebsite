@@ -131,7 +131,7 @@ function Home() {
             <div className="card__inner">
               <img src={sparks} alt="ieee" />
               <p className="card__name">
-                Web Developer and Designing Intern <span>at </span> The Sparks
+                Web Developement and Designing Intern <span>at </span> The Sparks
                 Foundation 
               </p>
               <span>April-May (2 months)</span>
